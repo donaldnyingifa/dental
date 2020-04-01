@@ -132,10 +132,8 @@ STATICFILES_DIRS = [
 
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
-#ALLOWED_HOSTS = ['198.211.99.20', 'localhost', '127.0.0.1']
-# ALLOWED_HOSTS = get_list(
-# os.environ.get('fvcollection.herokuapp.com', 'localhost,127.0.0.1'))
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['herokudjangoapp.herokuapp.com', 'localhost:8000']
+#ALLOWED_HOSTS = ['*']
 
 # EMAIL_HOST = 'smtp.gmail.com'
 # EMAIL_PORT = 587
