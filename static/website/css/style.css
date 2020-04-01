@@ -53,13 +53,13 @@ Last Update: Dec 05, 2018
 /* Import Fonts & All CSS */
 
 
-@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700");
+/* @import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700");
 @import url(bootstrap.min.css);
 @import url(animate.css);
 @import url(default-assets/classy-nav.css);
 @import url(owl.carousel.min.css);
 @import url(magnific-popup.css);
-@import url(font-awesome.min.css);
+@import url(font-awesome.min.css); */
 @import url(style2.css);
 * {
   margin: 0;
