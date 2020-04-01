@@ -132,7 +132,7 @@ STATICFILES_DIRS = [
 
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
-ALLOWED_HOSTS = ['herokudjangoapp.herokuapp.com', 'localhost:8000']
+ALLOWED_HOSTS = ['donalddental.herokuapp.com', 'localhost:8000']
 #ALLOWED_HOSTS = ['*']
 
 # EMAIL_HOST = 'smtp.gmail.com'
